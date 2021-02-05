@@ -1,6 +1,7 @@
 # 5kyen
 ## 介绍
 生成5000兆円欲しい！（想要五千兆円！）风格图片的api，使用nodejs编写
+
 核心功能来自 [koishi-plugin-gosen-choyen](https://github.com/idlist/koishi-plugin-gosen-choyen)
 ## 部署
 ```
@@ -9,7 +10,9 @@ npm install
 node main.js
 ```
 `node main.js <port> <max_length>`
+
 port：服务运行端口，可选参数，默认为8081
+
 max_length：最大长度，可选参数，默认为40
 
 ## 调用说明
