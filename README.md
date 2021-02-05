@@ -16,7 +16,7 @@ port：服务运行端口，可选参数，默认为8081
 max_length：最大长度，可选参数，默认为40
 
 ## 调用说明
-` GET https://server:8081/5kyen/`
+` POST https://server:8081/5k/`
 ### 参数
 |参数|含义|
 |-|-|
