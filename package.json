@@ -1,0 +1,16 @@
+{
+  "name": "5kyen",
+  "version": "1.0.0",
+  "description": "Generate 5k yen image",
+  "main": "main.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nook",
+  "license": "MIT"
+}
